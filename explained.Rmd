@@ -1,0 +1,35 @@
+---
+title: "Two-sample T-test (BIOEST2226)"
+output: html_document
+date: "2022-11-29"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+For my bio statistics class on UNM they gave us a random data set to each student.
+The goal was to create a fictional study and apply the right hypothesis testing.
+
+```{r libraries}
+library(dplyr)
+library(ggplot2)
+library(cowplot)
+```
+
+```{r loading data}
+data <- read.csv("data/datos21.txt", header = FALSE, sep = "\t", col.names = c('weight', 'group'))
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+

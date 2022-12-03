@@ -14,4 +14,4 @@ Originally, I made this analysis using [Infostat](https://www.infostat.com.ar/),
 
 I've uploaded two different versions of this project.
 
-You can read the original [spanish version](https://acapponi.github.io/TFI-BIOEST2226/espanol.html) or the translated [english version](https://acapponi.github.io/TFI-BIOEST2226/english.html)
+You can read the original [spanish version](https://acapponi.github.io/TFI-BIOEST2226/espanol.html) or the translated [english version](https://acapponi.github.io/TFI-BIOEST2226/english.html).
